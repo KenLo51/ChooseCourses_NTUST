@@ -1,0 +1,12 @@
+{"username" : "",
+ "password" : "",
+ "semester" : "1102",
+ "courseNo" : ["ET3506701", "ET4800301", "GE3723301", "GE3917301"],
+ "line_token" : "",
+ "url_main" : "https://www.ntust.edu.tw/",
+ "url_courseSelection" : "https://courseselection.ntust.edu.tw/",
+ "url_login" : "https://stuinfosys.ntust.edu.tw/NTUSTSSOServ/SSO/Login/CourseSelection",
+ "url_addandsub" : "https://courseselection.ntust.edu.tw/AddAndSub/B01/B01",
+ "url_querycourse" : "https://querycourse.ntust.edu.tw/querycourse/api/courses",
+ "url_PreRegistration":"https://courseselection.ntust.edu.tw/First/A06/A06"
+}
