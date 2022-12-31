@@ -2,8 +2,9 @@
 用於"國立臺灣科技大學選課系統"之選課工具。每次登入後約可持續加選8小時，之後將被系統強制登出需再次手動登入。
 
 ## 功能說明：
- <img src="https://github.com/KenLo51/ChooseCourses_NTUST/blob/main/images/Screenshot%202023-01-01%20020738.png?raw=true" width="501" height="395" />
+ <img src="https://github.com/KenLo51/ChooseCourses_NTUST/blob/main/images/Screenshot%202023-01-01%20020738.png?raw=true" width="501" height="395" />  
 由上而下，由左而右分別為:  
+
 1. 上半區塊顯示課程，並勾選須加選課程  
 2. 課程代碼可額外興新增課程  
 3. "執行敘數量"設定重複加選時所開啟執行敘數量，越高則平均嘗試加選頻率越高  
