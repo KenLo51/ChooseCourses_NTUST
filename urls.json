@@ -1,8 +1,0 @@
-{
- "main" : "https://www.ntust.edu.tw/",
- "courseSelection" : "https://courseselection.ntust.edu.tw/",
- "login" : "https://stuinfosys.ntust.edu.tw/NTUSTSSOServ/SSO/Login/CourseSelection",
- "addandsub" : ["https://courseselection.ntust.edu.tw/AddAndSub/B01/B01", "https://courseselection.ntust.edu.tw/AddAndSub/B01/ExtraJoin"],
- "querycourse" : "https://querycourse.ntust.edu.tw/querycourse/api/courses",
- "PreRegistration": ["https://courseselection.ntust.edu.tw/First/A06/A06", "https://courseselection.ntust.edu.tw/First/A06/ExtraJoin"]
-}
