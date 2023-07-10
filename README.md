@@ -1,6 +1,6 @@
 # ChooseCourses_NTUST
-**用於112學年度時的選課系統**
-用於"國立臺灣科技大學選課系統"之選課工具。每次登入後約可持續加選8小時，之後將被系統強制登出需再次手動登入。
+**用於112學年度時的選課系統，不確保能否用於新系統**  
+"[國立臺灣科技大學選課系統](https://courseselection.ntust.edu.tw/)"的選課工具。每次登入後約可持續加選8小時，之後將被系統強制登出需再次手動登入。
 
 ## 功能說明：
  <img src="https://github.com/KenLo51/ChooseCourses_NTUST/blob/main/images/Screenshot%202023-01-01%20020738.png?raw=true" width="501" height="395" />  
